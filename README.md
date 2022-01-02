@@ -1,2 +1,2 @@
 # codeWars-solutions
-Solutions to my Codewars Trainings
+My Solutions to Codewars Challanges
