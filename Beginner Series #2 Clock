@@ -1,0 +1,8 @@
+function past(h, m, s){
+  //#Happy Coding! ^_^
+  let sConv = s * 1000
+  let mConv = m * 60 * 1000
+  let hConv = h * 60 * 60 * 1000
+  
+  return sConv + mConv + hConv
+}
